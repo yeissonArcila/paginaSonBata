@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&display=swap');
+*{
+    margin: 0;
+    background-color: black;
+    
+}
+.menu{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}    
+.enlaces{
+    color: white;
+    font-size: 20px ;
+    text-decoration: none;
+}   
+.logo{
+    width: 400px;
+}
+.titulo{
+    color: #fbea0b;
+    font-family: 'Covered By Your Grace', cursive;
+    font-size: 70px;
+    text-align: center;
+}
+.parrafo{
+    font-style: italic;
+    color: white;
+    
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+.imagen{
+    width: 380px;
+    height: 380px;
+}
+.elemento{
+margin: 10px;
+border: 10px solid #fbea0b ;
+}
+.subtitulo{
+    text-align: center;
+    color: white;
+}
+.icono{
+    width: 100px;
+    font-size: 40px;
+    color: black;
+    background-color: #fbea0b;
+    border-radius: 50px;
+    text-align: center;
+    
+}
+.pie_pagina{
+    display: flex;
+    justify-content: center;
+}
+.contactos{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
